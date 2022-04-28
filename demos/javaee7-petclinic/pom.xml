@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <jboss.version>8.2.1.Final</jboss.version>
+        <jboss.version>23.0.2.Final</jboss.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.scm.version>1.9.4</maven.scm.version>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
